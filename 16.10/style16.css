@@ -1,0 +1,23 @@
+h1 {
+    background-color: blue;
+
+    border-top: black 4px solid;
+    border-bottom: black 4px solid;
+
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+button {
+    margin-top: 12px;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+table {
+    border: black 4px solid;
+}
